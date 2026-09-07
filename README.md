@@ -7,6 +7,7 @@
 - Họ và tên: Nguyễn Văn Hoài
 - MSSV: 102230241
 - Lớp: 23T_DT2
+- GitHub: nv-hoai
 
 ## Mục tiêu
 
