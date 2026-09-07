@@ -8,3 +8,6 @@
 - MSSV: 102230241
 - Lớp: 23T_DT2
 
+## Mục tiêu
+
+Tìm hiểu Git và GitHub.
